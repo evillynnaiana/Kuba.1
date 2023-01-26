@@ -218,21 +218,21 @@ li a:hover {
 /* Referenciando o 1°Slide */
 /* IMAGENS */
 .container-Projeto .slide-container:nth-child(1) .slide {
-    background: url(./img/foto1.jpg);
+    background: url(../img/foto1.jpg);
     background-repeat: no-repeat;
     background-size: contain;
     max-width: 100%;
 }
 
 .container-Projeto .slide-container:nth-child(2) .slide {
-    background: url(./img/foto2.jpg);
+    background: url(../img/foto2.jpg);
     background-size: contain;
     background-repeat: no-repeat;
     max-width: 100%;
 }
 
 .container-Projeto .slide-container:nth-child(3) .slide {
-    background: url(./img/foto3.jpg);
+    background: url(../img/foto3.jpg);
     background-size: contain;
     background-repeat: no-repeat;
     max-width: 100%;
