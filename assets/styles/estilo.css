@@ -218,7 +218,7 @@ li a:hover {
 /* Referenciando o 1°Slide */
 /* IMAGENS */
 .container-Projeto .slide-container:nth-child(1) .slide {
-    background: url(./assets/img/foto1.jpg);
+    background: url(assets/img/foto1.jpg);
     background-repeat: no-repeat;
     background-size: contain;
     max-width: 100%;
